@@ -1,7 +1,8 @@
 name: belajar_dart_packages_library
 description: A sample command-line application with basic argument parsing.
 version: 1.5.0
-# repository: https://github.com/my_org/my_repo
+homepage: https://supumandart.online
+repository: https://github.com/Hendri-92/belajar_dart_packages_library
 
 environment:
   sdk: ^3.10.6
